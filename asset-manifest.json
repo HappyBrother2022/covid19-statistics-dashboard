@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/covid19-statistics-dashboard/static/js/main.38cfdd8f.js",
+    "main.js": "/covid19-statistics-dashboard/static/js/main.af93122f.js",
     "index.html": "/covid19-statistics-dashboard/index.html",
-    "main.38cfdd8f.js.map": "/covid19-statistics-dashboard/static/js/main.38cfdd8f.js.map"
+    "main.af93122f.js.map": "/covid19-statistics-dashboard/static/js/main.af93122f.js.map"
   },
   "entrypoints": [
-    "static/js/main.38cfdd8f.js"
+    "static/js/main.af93122f.js"
   ]
 }

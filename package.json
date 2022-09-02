@@ -1,8 +1,8 @@
 {
-  "name": "map-statistics-dashboard",
+  "name": "covid19-statistics-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "http://happybrother2022.github.io/covid19-statistics-dashboard",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
